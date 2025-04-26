@@ -1,0 +1,1 @@
+export type PlaygroundMode = "storybooks" | "overview"
